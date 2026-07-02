@@ -347,7 +347,7 @@ export default function App() {
         <p style={{ color:"#666", marginBottom:48, fontFamily:"'Space Mono',monospace", fontSize:14 }}>
           (or just send memes. both are fine.)
         </p>
-        <form action="https://formspree.io/f/thangakumarc22@gmail.com" method="POST" style={{ display:"flex", flexDirection:"column", gap:16 }}>
+        <form action="https://formspree.io/f/xbdbpnro" method="POST" style={{ display:"flex", flexDirection:"column", gap:16 }}>
           <input type="text" name="name" placeholder="Your name (or alias, no judgment)" required />
           <input type="email" name="email" placeholder="Your email" required />
           <textarea name="message" rows={5} placeholder="What's on your mind? Jobs, collabs, memes..." style={{ resize:"vertical" }} required />
