@@ -210,7 +210,7 @@ export default function App() {
               onMouseOver={e=>e.target.style.transform="scale(1.04)"} onMouseOut={e=>e.target.style.transform="scale(1)"}>
               See my work 👀
             </button>
-            <a href="https://drive.google.com/file/d/1xDSyezOGUJt0JSRwAgizpmkd63WAuRoa/view?usp=sharing" target="_blank" rel="noreferrer"
+            <a href="https://drive.google.com/file/d/1Ig9Z8AzPyLk8EWWdFRawOIHYWPsS9f3F/view?usp=sharing"
               style={{ background:"transparent", border:"1.5px solid rgba(255,255,255,0.2)", borderRadius:14, padding:"14px 32px", color:"#F5F5F5", fontFamily:"inherit", fontSize:16, fontWeight:600, cursor:"pointer", transition:"all 0.2s", textDecoration:"none", display:"inline-flex", alignItems:"center", gap:8 }}
               onMouseOver={e=>e.currentTarget.style.borderColor="rgba(255,255,255,0.5)"} onMouseOut={e=>e.currentTarget.style.borderColor="rgba(255,255,255,0.2)"}>
               Resume 📄
